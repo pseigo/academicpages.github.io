@@ -1,6 +1,5 @@
 ---
 title: "Pomodoro Study Timer"
-subtitle: "CPSC 210"
 author: [Peyton Seigo]
 date: "2017-12-31"
 excerpt: "A study timer built using C++ and an Arduino-driven circuit."
