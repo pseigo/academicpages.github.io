@@ -105,7 +105,7 @@ After completing a *pomodoro*, the short break state will automatically begin. I
 
 ### Video
 
-{% include youtubePlayer.html id=Qk93Z4uxi0s %}
+{% include youtubePlayer.html id="Qk93Z4uxi0s" %}
 
 ### Images
 
