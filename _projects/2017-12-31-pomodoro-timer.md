@@ -2,6 +2,17 @@
 title: "Pomodoro Study Timer"
 author: [Peyton Seigo]
 excerpt: "A study timer built using C++ and an Arduino-driven circuit."
+header:
+  teaser: "project-pomodoro-banner.jpg"
+tags:
+  - c
+  - c++
+  - arduino
+  - circuits
+  - wiring
+  - soldering
+  - pulse width modulation
+  - pomodoro technique
 ---
 
 Academic Project, Dec 2017
