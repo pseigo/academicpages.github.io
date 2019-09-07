@@ -3,7 +3,7 @@ title: "Pomodoro Study Timer"
 author: [Peyton Seigo]
 excerpt: "A study timer built using C++ and an Arduino-driven circuit."
 header:
-  teaser: "project-pomodoro-banner.jpg"
+  teaser: "project-pomodoro-banner.png"
 tags:
   - c
   - c++

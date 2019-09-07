@@ -3,7 +3,7 @@ title: "Internpaths - Job Search Web App"
 author: [Peyton Seigo]
 excerpt: "A 24-hour hackathon web app project built in a team of 4 using the MERN stack."
 header:
-  teaser: "project-internpaths-banner.jpg"
+  teaser: "project-internpaths-banner.png"
 tags:
   - javascript
   - react
