@@ -16,7 +16,7 @@ Most of my experience is with C++ and Java and I am currently exploring the Elix
 
 ## Computer Science
 
-I am a second year Computer Science student at UBC Vancouver searching for internship opportunities. In addition to my software projects, I am acquiring many fundamental Computer Science concepts through my studies. Below you will find the relevant courses I have registered for and a brief description of each.
+I am a second year Computer Science student at UBC Vancouver searching for internship opportunities. In addition to my software projects, I am acquiring many fundamental Computer Science concepts through my studies. You can visit the UBC course calendar to view a brief description of each course.
 
 ### In Progress
 
