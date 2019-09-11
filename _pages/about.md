@@ -23,8 +23,7 @@ I am a second year Computer Science student at UBC Vancouver searching for inter
 - [CPSC 213](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=213) - Introduction to Computer Systems
 - [CPSC 221](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221) - Basic Algorithms and Data Structures
 - [MATH 200](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=200) - Calculus III
-- [MATH 221](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=221) - Matrix Algebra
-- [STAT 251](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=251) - Elementary Statistics
+- [MATH 221](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=221) - Matrix Algebr
 
 ### Completed
 
