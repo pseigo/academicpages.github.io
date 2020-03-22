@@ -18,11 +18,11 @@ Most of my experience is with C++ and Java and I am currently exploring the Elix
 
 ## Contact
 
-You can get in touch with me through email, which is my first name at this domain. 
+You can get in touch with me through email, which is my first name at this domain.
 
-## University 
+## University
 
-I am a second year Computer Science student at UBC Vancouver. In addition to my software projects, I am developing fundamental Computer Science concepts through my studies. You can visit the links below to view a brief description of each course.
+I am a second year Computer Science student at UBC Vancouver. In addition to my software projects, I am learning fundamental Computer Science concepts through my studies. You can visit the links below to view a brief description of each course.
 
 ### Completed courses in math and computer science
 
